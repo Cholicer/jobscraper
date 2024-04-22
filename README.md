@@ -4,4 +4,4 @@ I uploaded this project just to show what I managed to do. Since this was my fir
 
 Now I want to redesign and improve this application using more appropriate tools.
 
-You can see the project [demo]([url](https://github.com/Cholicer/new-example-project/blob/main/showcase/project-demo.mp4)).
+You can see the project [demo]([url](https://github.com/Cholicer/new-example-project/blob/main/showcase/project-demo.mp4))
