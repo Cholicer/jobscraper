@@ -6,3 +6,5 @@ I uploaded this project just to show what I managed to do from 2 month of learni
 Now I want to redesign and improve this application using more appropriate tools. (UDP: I didn't lol).
 
 You can see the project [demo](https://youtu.be/Ae0pupZ0YzA).
+
+Also see my other [project](https://github.com/Cholicer/camera-app-arsy) written in Bloc, Clean Architecture, GetIt.
